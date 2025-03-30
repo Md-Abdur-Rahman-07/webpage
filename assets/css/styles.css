@@ -150,6 +150,7 @@ a.fiverr:hover {
 }
 
 @media (max-width:768px) {
+    body{height: 95vh;}
     .container {
         height: 100%;
         text-align: center;
@@ -209,8 +210,9 @@ a.fiverr:hover {
     }
 }
 @media (max-width:400px) {
+
     .container{
-        justify-content: space-around;
+        justify-content: space-evenly;
     }
     .container-body {
         height: 70%;
