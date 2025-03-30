@@ -210,7 +210,7 @@ a.fiverr:hover {
 }
 @media (max-width:400px) {
     .container{
-        justify-content: space-evenly;
+        justify-content: space-around;
     }
     .container-body {
         height: 70%;
